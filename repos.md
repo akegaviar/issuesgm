@@ -1,4 +1,4 @@
-# List
+# Contents
 - [Ethereum clients](#ethereum-clients)
 - [Ethereum tools](#ethereum-tools)
 - [EVM clients](#evm-clients)
